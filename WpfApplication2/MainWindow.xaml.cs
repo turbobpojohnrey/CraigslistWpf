@@ -36,6 +36,10 @@ namespace WpfApplication2
             this._core = new CL.Core(this);
         }
 
+        public void DELETEME()
+        {
+        }
+
         private void BtnSearchClick(object sender, RoutedEventArgs e)
         {
             _core = new CL.Core(this);
